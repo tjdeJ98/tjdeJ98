@@ -25,7 +25,7 @@ I am a 4th-year software engineering student based in the Netherlands, I am pass
 ## :memo: Fun facts
 * I have been going to the gym actively for the past 7 years.
 * Currently learning the piano and Italian
-* Problem solving knowledge > Code knowledge
+* Programming > Coding
 
 ## :mailbox_with_mail: Contact
 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/timo-de-jong-72a25a78/)
