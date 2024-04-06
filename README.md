@@ -3,7 +3,7 @@ I am a 4th-year software engineering student based in the Netherlands, I am pass
 
 * Check out my website ["Under development"]() to learn more about me.
 * Explore my blog where I share my insights and learnings.
-* Stay updated with my development on [LinkedIn]().
+* Stay updated with my development on [LinkedIn](https://www.linkedin.com/in/timo-de-jong-72a25a78/).
 * Click here to see what I am currently working on.
 
 ## :package: Toolbox
@@ -28,5 +28,5 @@ I am a 4th-year software engineering student based in the Netherlands, I am pass
 * Problem solving knowledge > Code knowledge
 
 ## :mailbox_with_mail: Contact
-You can reach out to me on [LinkedIn]()
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/timo-de-jong-72a25a78/)
 
