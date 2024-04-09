@@ -9,7 +9,7 @@ I am a 4th-year software engineering student based in the Netherlands, I am pass
 ## :package: Toolbox
 **Backend Development:** `Java`, `Python`, `SQL`, `Django`  
   
-**Frontend Development:** `HTML`, `CSS`  
+**Frontend Development:** `HTML`, `CSS`, `HTMX`
   
 **Version Control:** `Git`, `GitHub`  
   
@@ -17,7 +17,7 @@ I am a 4th-year software engineering student based in the Netherlands, I am pass
   
 **Operating Systems:** 95% = `Windows 10`, 5% = `Linux Based`  
   
-**Other:** `Scrum`, `SharePoint`, `Office 365`  
+**Other:** `Scrum`, `SharePoint`, `Office 365`, `PostgreSQL`  
   
 **Not used in the past year:** `Laravel`, `PHP`, `Javascript`  
   
